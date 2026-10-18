@@ -37,7 +37,7 @@ Requires **macOS 13 Ventura** or later. The prebuilt zip is **Apple Silicon**
 1. Copy text or an image as usual.
 2. Press **⌘⇧V** (or click the menu bar icon → **Show History**).
 3. Click an item to paste it into the app you were just using.
-4. Hover an item and click the pin to keep it.
+4. Click the pin on an item to keep it.
 
 Clearing history removes recent items only. Pinned items stay.
 
